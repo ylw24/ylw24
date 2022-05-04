@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 😄 Pronouns: she/her
+📫 How to reach me: y8lw24@gmail.com
 
 <!--
 **ylw24/ylw24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
