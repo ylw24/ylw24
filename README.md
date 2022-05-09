@@ -2,7 +2,7 @@
 
 😄 Pronouns: she/her
 
-📫 Please Reach me through email: y8lw24@gmail.com
+📫 Reach me through email: y8lw24@gmail.com
 
 <!--
 **ylw24/ylw24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
