@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 Pronouns: she/her
+🌸 Pronouns: she/her
 
 📫 Reach me through email: y8lw24@gmail.com
 
