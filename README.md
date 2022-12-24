@@ -1,14 +1,29 @@
-### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
 
 ✨ This is where I break stuff and pray I kept a version— ✨ 
 
 
 
-<!-- social media links
+
 <p align="left">
-<a href="https://www.linkedin.com/in/yuxin-linda-wang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="25" width="30" /></a>
-<a href="https://www.instagram.com/ylw311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="25" width="30" /></a>
--->
+Linkedin: <a href="https://www.linkedin.com/in/yuxin-linda-wang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="25" width="30" /></a>
+  <br>  <br> 
+Personal Site: <a href="https://ylw311.github.io/Linda/index.html" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1810/1810852.png" alt="linkedIn" height="25" width="30" /></a>
+  
+</div>
+
+<br>
+<br>
+
+
+<!---------------------------------------------------------------------------->
+
+[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+
+[License]: LICENSE
+[KBD]: Types/KBD.md
+[#]: #
+
 
 <!--
 **ylw24/ylw24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
