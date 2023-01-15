@@ -6,7 +6,7 @@
 
 
 <p align="left">
-Linkedin: <a href="https://www.linkedin.com/in/yuxin-linda-wang/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="25" width="30" /></a>
+<a href="https://www.linkedin.com/in/yuxin-linda-wang/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="25" width="30" /></a>
   <br>  <br> 
 <!-- 
 Personal Site: <a href="https://ylw311.github.io/Linda/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1810/1810852.png" alt="linkedIn" height="25" width="30" /></a>
