@@ -1,20 +1,36 @@
 
 
-✨ This is where I break stuff and pray I kept a version— ✨ 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Linda+Wang..&hearts;++;Computer+Science+Student,;Welcome+to+my+Github...<3"></a>
+</p>
 
 
 
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=This+is+where+I+pray...;...that+I+kept+a+version...;or+else...+:')"></a>
+</p> -->
 
-<p align="left">
-<a href="https://www.linkedin.com/in/yuxin-linda-wang/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="25" width="30" /></a>
-  <br>  <br> 
+
+
+<a href="https://www.linkedin.com/in/yuxin-linda-wang/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Linda-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<br>
+
+
+<a href="mailto:y8lw24@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Linda-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+  
+  
 <!-- 
 Personal Site: <a href="https://ylw311.github.io/Linda/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1810/1810852.png" alt="linkedIn" height="25" width="30" /></a>
   -->
-</div>
 
-<br>
-<br>
 
 
 <!---------------------------------------------------------------------------->
