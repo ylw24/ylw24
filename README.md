@@ -29,7 +29,7 @@
             </a>
     <a href="https://quarkus.io" target="_blank" rel="noreferrer"> <img src="https://github.com/ylw311/ylw311/assets/61102300/c3acb7f6-9fcd-4d15-81ff-6bad9ef8d889" alt="quarkus" width="40" height="40"/> </a>
  </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ylw311&show_icons=true&locale=en&layout=compact" alt="ylw311" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ylw311&show_icons=true&locale=en&layout=compact" alt="ylw311" /></p> -->
 
 <!-- [![Top Langs](https://github-readme-stats-ylw311.vercel.app/api/top-langs/?username=ylw311)](https://github.com/anuraghazra/github-readme-stats) -->
 
