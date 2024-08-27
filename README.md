@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Linda+Wang..&hearts;++;Computer+Science+Student,;Welcome+to+my+Github...<3"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Linda+Wang..&hearts;++;CS+@+University+of+Waterloo,;Welcome+to+my+Github...<3"></a>
 </p>
 
 ### 📫 How to reach me:
 
 - Website: [lindawang.dev](https://lindawang.dev/) 
-- <a href="https://linkedin.com/in/linda-y-wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuxin-linda-wang" height="18" width="18" /></a>  [@linda-y-wang](https://linkedin.com/in/linda-y-wang) 
-- <a href="https://instagram.com/ylw311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ylw311" height="18" width="18" /></a>  [ylw311](https://instagram.com/ylw311) 
-- <a href="https://discord.gg/ylw311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ylw311" height="30" width="40" /></a> @ylw311
+- <a href="https://linkedin.com/in/linda-y-wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuxin-linda-wang" height="18" width="18" /></a>  @linda-y-wang
+- <a href="https://instagram.com/ylw311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ylw311" height="18" width="18" /></a> @ylw311
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ylw311" height="20" width="25" /></a> @ylw311
 
 
 </p>
@@ -43,18 +43,15 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-
 <p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ylw311" alt="ylw311" width="450" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ylw311" alt="ylw311" /></a> </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ylw311&show_icons=true&locale=en&layout=compact" alt="ylw311" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ylw311&show_icons=true&locale=en" alt="ylw311" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ylw311&" alt="ylw311" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ylw311&" alt="ylw311" width="400" />
+</p>
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=This+is+where+I+pray...;...that+I+kept+a+version...;or+else...+:')"></a>
@@ -81,10 +78,6 @@ Personal Site: <a href="https://ylw311.github.io/Linda/" target="_blank"><img al
 
 <!---------------------------------------------------------------------------->
 
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-[License]: LICENSE
-[KBD]: Types/KBD.md
-[#]: #
 
 <!--
 **ylw24/ylw24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
